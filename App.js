@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'centerremote add origin https://github.com/Neogohan1/musical-octo-funicular.git',
+    alignItems: 'center',
     justifyContent: 'center',
   },
 });
